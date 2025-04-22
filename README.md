@@ -28,7 +28,8 @@ This is a basic **C++ console application** that represents a simple Student Gra
    g++ -o student student.cpp
    ./student
    
-🧪 Example ---
+🧪 Example 
+---
 Enter student name: Alex  
 Enter section: A  
 Enter enrollment number: 2023001  
@@ -40,12 +41,14 @@ student enrollment :2023001
 student marks :84  
 Grade :B  
 
-🧰 Built With ---
+🧰 Built With 
+---
 	•	C++
 	•	CLion (JetBrains)
 	•	Git & GitHub (for version control testing)
  
- 📌 Notes ---
+ 📌 Notes 
+ ---
 
 This project was used as a test for:
 	•	Using Git commands in the terminal
